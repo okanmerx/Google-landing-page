@@ -1,3 +1,7 @@
+Live page: https://okanmerx.github.io/Google-landing-page/
+
+
+
 # HC-02 : Google Landing Page
 
 ## Description
